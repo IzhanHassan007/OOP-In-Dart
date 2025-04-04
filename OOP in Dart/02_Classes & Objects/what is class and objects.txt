@@ -1,0 +1,16 @@
+Class kia hota h? 
+  - Class is a blueprint for creating objects.
+  - example: class Person {}
+
+Object kia hota h?
+  - Object is an instance of a class.
+  - Object aik variable hota h jisme class ka data store hota h.
+  - Example : Person person = Person(); 
+ 
+----
+
+pehly hum class banaye gy, --
+phir hum function banaye gy,  -- 
+phir hum object banaye gy, -- 
+phir hum variable banaye gy,
+phir hum display function banaye gy
