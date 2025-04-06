@@ -1,0 +1,19 @@
+Assignment 1: Interface for Vehicle Types
+
+Create an interface Vehicle that defines methods start(), stop(), and fuelEfficiency(). Then, create two classes: Car and Bike, which implement the Vehicle interface. Each class should define the methods with its own logic for starting, stopping, and calculating fuel efficiency.
+
+Assignment 2: Abstract Class for Animals
+Question:
+Create an abstract class Animal with an abstract method sound(). Then, create two subclasses: Dog and Cat, each overriding the sound() method with its own implementation (e.g., Dog can bark, and Cat can meow). Implement a main function that creates objects of both classes and prints the sounds they make.
+
+Assignment 3: Abstract Shape Class
+Question:
+Create an abstract class Shape with two abstract methods area() and perimeter(). Then, create two subclasses Rectangle and Circle that calculate their respective areas and perimeters. Write the logic inside the subclasses and demonstrate the calculation in the main function.
+
+Assignment 4: Interface for Payment Methods
+Question:
+Define an interface Payment with methods processPayment() and refund(). Create two classes CreditCard and PayPal that implement the Payment interface. Each class should provide its own logic for processing payment and handling refunds. Demonstrate the payment methods in the main function.
+
+Assignment 5: Abstract Class for Employee
+Question:
+Create an abstract class Employee with an abstract method calculateSalary(). Then, create two subclasses FullTimeEmployee and PartTimeEmployee, where each subclass implements calculateSalary() with different logic (e.g., a full-time employee gets a fixed salary, and part-time employees are paid by hours worked). Use the main function to create objects and print their salaries.

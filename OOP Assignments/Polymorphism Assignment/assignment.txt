@@ -1,0 +1,6 @@
+// 5. Assignment 5: Polymorphism in Collection Handling
+
+// Create a class Employee with a method work() that prints "Employee is working". Then create two subclasses Manager and Developer that override the work() method with their own implementations (e.g., "Manager is managing" and "Developer is coding"). Create a list of Employee objects, populate it with different types of employees, and use polymorphism to call the work() method for each employee.
+
+// Objective:
+// Practice using polymorphism to manage collections of different types that share the same parent class.

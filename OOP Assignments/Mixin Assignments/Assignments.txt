@@ -1,0 +1,46 @@
+🔹 Assignment 1: Basic Mixin Usage
+Question:
+Create a mixin called CanFly with a method fly() that prints "I can fly!".
+Then, create a class Bird that uses the CanFly mixin.
+Create an object of Bird and call the fly() method.
+
+Assignment 2: Multiple Mixins in One Class
+Question:
+Create two mixins:
+
+CanSwim with method swim() that prints "Swimming..."
+
+CanWalk with method walk() that prints "Walking..."
+Now create a class Human that uses both mixins and test all methods.
+
+Assignment 3: Mixin with Class Method Conflict
+Question:
+Create two mixins:
+
+Artist with method skill() that prints "Drawing"
+
+Dancer with method skill() that prints "Dancing"
+Create a class Person that uses both mixins.
+Override the skill() method to print "Multi-talented"
+Then create an object of Person and call the method.
+
+Assignment 4: Mixin with Inheritance
+Question:
+Create a base class Vehicle with a method start().
+Create a mixin Electric with a method charge() that prints "Charging battery..."
+Now create a class ElectricCar that extends Vehicle and uses Electric mixin.
+Test both methods with an object of ElectricCar.
+
+Assignment 5: Real-Life Scenario with Mixins
+Question:
+Create three mixins:
+
+Cook with method cook()
+
+Drive with method drive()
+
+Code with method code()
+Now create a class Engineer that uses Code and Drive,
+and a class Chef that uses Cook and Drive.
+Create objects of both classes and test all methods.
+
