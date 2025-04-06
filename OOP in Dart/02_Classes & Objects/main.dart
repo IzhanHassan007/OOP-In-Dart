@@ -23,8 +23,8 @@ class Person {
   String? fatherName;
   int? age;
 
-  // 02 Step- Creating function to print  -- phir hum function banaye gy
-  void display() {
+// 02 Step- Creating function to print  -- phir hum function banaye gy
+void display() {
     print("My Name is: $MyName");
     print("My Father Name is: $fatherName");
     print("My Age is: $age");

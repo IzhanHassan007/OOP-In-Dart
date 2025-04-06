@@ -1,0 +1,2 @@
+// Enum is special type that represent constants that are fixed and cannot be changed.
+

@@ -1,0 +1,7 @@
+// mixin in dart
+// Is m hum aik class ka code diff class m share krskty hen, use krskty hen
+
+// Rules:
+// Cannot create object of mixin
+// Cannot extend mixin
+// Cannot create Constructor in mixin
